@@ -1,0 +1,43 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: #333;
+    color: whitesmoke;
+}
+
+.MDN {
+    color: rgb(245, 130, 37);
+}
+
+.name {
+    color: gold;
+}
+
+.plan {
+    color: beige;
+}
+
+.learn {
+    color: beige;
+}
+
+.Back {
+    color: beige;
+}
+
+a:visited {
+    color: #7bff00;
+}
+
+a:hover, a:active {
+    color: rgb(245, 130, 37);
+}
+
+table, tr, th, td, caption {
+    border: 1px solid #eee;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
